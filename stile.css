@@ -1,0 +1,26 @@
+.answer_twenty_three_minus_seven{
+    display: flex;
+    box-sizing: border-box;
+}
+.question_twenty_three_minus_seven{
+    font-size: 100px;
+}
+
+.sixteen{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.poseredine{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
